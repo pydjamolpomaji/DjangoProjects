@@ -1,0 +1,25 @@
+.form-row{
+font-family: Times New Roman;
+font-size: 20px;
+}
+
+.form-row input{
+border-radius: 23px;
+border: 1px solid #ff08f6;
+}
+
+.container h1{
+font-family:Times-Roman ;
+text-align: center;
+color: #ff08f6;
+}
+
+.form-group{
+font-family: Times New Roman;
+font-size: 20px;
+}
+
+.form-group input{
+border-radius: 23px;
+border: 1px solid #ff08f6;
+}
